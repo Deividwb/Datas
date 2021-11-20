@@ -14,7 +14,7 @@ import java.util.Date;
 public class ExercicioCalendar {
     public static void main(String[] args) {
 
-        int diasPagar = 7;
+        int diasPagar = 12;
         int maisDois = 2;
         int maisUm = 1;
 
